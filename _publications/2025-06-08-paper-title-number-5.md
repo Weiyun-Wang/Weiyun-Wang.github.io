@@ -10,4 +10,4 @@ paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://dl.acm.org
 citation: 'Liu, G., Ding, X., Cai, J., Wang, W., Wang, X., Diao, Y., ... & Mi, H. (2023, April). Digital making for inheritance and enlivening intangible cultural heritage: A case of hairy monkey handicrafts. In Proceedings of the 2023 CHI conference on human factors in computing systems (pp. 1-17).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+#Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
