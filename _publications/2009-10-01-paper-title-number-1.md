@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: ""I Want to Keep My Phone Away From the Bed": Designing a Smart Pillow for Sleep Onset"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2024-02-17-paper-title-number-4
+#excerpt: 'This paper is about fixing template issue #693.'
+date: 2026-3-11
+venue: 'Proceedings of the 2026 ACM Tangible, Embedded and Embodied Interaction Conference'
+#paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://dl.acm.org/doi/abs/10.1145/3563657.3596096)'
+#citation: 'Wang, W., Ding, X., & Hirskyj-Douglas, I. (2023, July). Everyday space as an interface for health data engagement: designing tangible displays of stress data. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (pp. 1648-1659).'
 ---
+
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
