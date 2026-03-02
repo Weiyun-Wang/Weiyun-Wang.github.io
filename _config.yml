@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Weiyun Wang"
 title_separator          : "-"
 name                     : &name "Weiyun Wang"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  #avatar           : "profile.png"
   name             : "Weiyun Wang"
   pronouns         : # "she/her"  
   bio              : "Embodied & Embodied Interaction, Health Data Engagement, Healthy Behaviour"
