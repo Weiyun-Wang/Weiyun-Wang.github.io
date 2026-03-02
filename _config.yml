@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Weiyun Wang"
 title_separator          : "-"
 name                     : &name "Weiyun Wang"
@@ -26,7 +26,7 @@ author:
   #avatar           : "profile.png"
   name             : "Weiyun Wang"
   pronouns         : # "she/her"  
-  bio              : "Embodied & Embodied Interaction, Health Data Engagement, Healthy Behaviour"
+  bio              : "Tangible & Embodied Interaction, Augmented Everyday Object, Wellbeing Technologies"
   location         : "Glasgow"
   employer         : "University of Glasgow"
   uri              : https://weiyun-wang.github.io/
