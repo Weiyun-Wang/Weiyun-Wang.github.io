@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src='/images/profile.jpg' style='width: 250px; float: right; margin-left: 20px; border-radius: 8px;'>
+<img src='/images/profile.jpg' style='width: 333.33px; float: left; margin-right: 20px; border-radius: 8px;'>
 
 My name is Weiyun Wang, a PhD candidate in Human-Computer Interaction at the University of Glasgow, under the supervision of [Dr. Xianghua (Sharon) Ding](https://xianghuading.github.io/Care-Computing-Group/) and [Dr. Ilyena Hirskyj-Douglas](https://ilyena.com/). I graduated from the Academy of Fine Arts of Tsinghua University in 2022 with a master's degree, and before that, I graduated from the Luxun Academy of Fine Arts with a bachelor's degree. With a background in design and fine arts, my research focuses on leveraging tangible interactive devices to facilitate healthy living in everyday life.
 
