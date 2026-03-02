@@ -1,5 +1,5 @@
 ---
-title: ""I Want to Keep My Phone Away From the Bed": Designing a Smart Pillow for Sleep Onset"
+title: "``I Want to Keep My Phone Away From the Bed'': Designing a Smart Pillow for Sleep Onset"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
