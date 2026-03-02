@@ -3,7 +3,7 @@ title: "Digital making for inheritance and enlivening intangible cultural herita
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+#excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2023/4/19
 venue: 'Proceedings of the 2023 CHI conference on human factors in computing systems'
 paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://dl.acm.org/doi/full/10.1145/3544548.3581539)'
