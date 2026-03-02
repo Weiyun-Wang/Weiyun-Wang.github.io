@@ -2,7 +2,7 @@
 title: "Everyday space as an interface for health data engagement: designing tangible displays of stress data"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+#permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-7-10
 venue: 'Proceedings of the 2023 ACM Designing Interactive Systems Conference'
